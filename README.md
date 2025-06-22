@@ -49,5 +49,5 @@ Open your browser at [http://localhost:3000](http://localhost:3000)
 
 Sakthi Murugan V — *passionate about building real-time web apps and learning advanced backend systems.*
 
-👉 [LinkedIn]((https://www.linkedin.com/in/sakthi-murugan-5b1985280/))  
+👉 [LinkedIn](https://www.linkedin.com/in/sakthi-murugan-5b1985280/)  
 👉 [GitHub](https://github.com/Sakthi270503)
