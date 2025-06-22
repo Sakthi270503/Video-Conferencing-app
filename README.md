@@ -17,7 +17,7 @@ It allows users to connect in real-time with video, audio, and chat — all in a
 ## 🚀 How to run locally
 
 ```bash
-git clone https://github.com/your-username/s-meet.git
+git clone https://github.com/Sakthi270503/s-meet.git
 cd s-meet
 npm install
 node index.js
